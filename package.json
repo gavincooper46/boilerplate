@@ -1,14 +1,14 @@
 {
-  "name": "npm-build-boilerplate",
+  "name": "Boilerplate",
   "version": "1.2.0",
   "description": "A set of common build tasks written with npm scripts.",
-  "author": "Damon Bauer <hello@damonbauer.me>",
+  "author": "Gavin Cooper <gavincooper46@yahoo.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/damonbauer/npm-build-boilerplate"
+    "url": "https://github.com/gavincooper46/boilerplate"
   },
-  "bugs": "https://github.com/damonbauer/npm-build-boilerplate/issues",
+  "bugs": "https://github.com/gavincooper46/boilerplate/issues",
   "keywords": [
     "npm",
     "scripts",
@@ -55,5 +55,8 @@
     "svg-sprite-generator": "0.0.7",
     "svgo": "^0.6.6",
     "uglify-js": "^2.6.2"
+  },
+  "dependencies": {
+    "material-components-web": "^0.35.1"
   }
 }
